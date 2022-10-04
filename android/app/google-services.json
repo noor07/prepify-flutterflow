@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "569607042622",
+    "firebase_url": "https://fflow-30086-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fflow-30086",
+    "storage_bucket": "fflow-30086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569607042622:android:a87b486653240e4fe4036f",
+        "android_client_info": {
+          "package_name": "com.mycompany.demointer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569607042622-8nq7p6g7d7sm3gcjcdsob9ak6crilra8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.demointer",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "569607042622-vptggrmigdpfhrk687jppgjg4r4pa5bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHzRKHJuA7pzKso8IWO7EllElPTSmsIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569607042622-vptggrmigdpfhrk687jppgjg4r4pa5bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569607042622-f76tbcmaqt4ta1bevlrcue137eb29p3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sevenieslab.prepify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569607042622:android:cf8a05f0c6d3eedfe4036f",
+        "android_client_info": {
+          "package_name": "com.sevenieslab.interviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569607042622-l2gsghch9qaqvj7mmb94dm3cgpqgc6a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sevenieslab.interviewapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "569607042622-vptggrmigdpfhrk687jppgjg4r4pa5bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHzRKHJuA7pzKso8IWO7EllElPTSmsIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569607042622-vptggrmigdpfhrk687jppgjg4r4pa5bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569607042622-f76tbcmaqt4ta1bevlrcue137eb29p3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sevenieslab.prepify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569607042622:android:c2e2611a9acecefbe4036f",
+        "android_client_info": {
+          "package_name": "com.sevenieslab.prepify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569607042622-5tdp1pa9t1t4hk6aq9pppm9ohnavqrpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sevenieslab.prepify",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "569607042622-vptggrmigdpfhrk687jppgjg4r4pa5bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHzRKHJuA7pzKso8IWO7EllElPTSmsIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569607042622-vptggrmigdpfhrk687jppgjg4r4pa5bn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569607042622-f76tbcmaqt4ta1bevlrcue137eb29p3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sevenieslab.prepify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
